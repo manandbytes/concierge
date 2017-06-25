@@ -1,6 +1,6 @@
 ## Concierge Options
 
-Besides the [options defined by the OSGi specification]((options-osgi.html)), Concierge also has some custom configuration options:
+Besides the [options defined by the OSGi specification](options-osgi.md), Concierge also has some custom configuration options:
 
 ### Framework properties
 
